@@ -45,3 +45,7 @@ src/
     ├── controller/            # Console UI interface loops
     │   └── ATMController.java # User input and system menus
     └── Main.java              # Application bootstrapper and data seeder
+
+
+## Project Code Path
+Automated-Teller-Machine-Simulator-/ATM_Simulator/src/com/atm/controller/ATMController.java
